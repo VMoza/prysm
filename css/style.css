@@ -69,6 +69,9 @@
 
  ***/
 
+html {
+  scroll-behavior: smooth;
+}
 
 #loader-wrapper {
   position: fixed;
