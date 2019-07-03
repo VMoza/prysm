@@ -69,10 +69,6 @@
 
  ***/
 
-html {
-  scroll-behavior: smooth;
-}
-
 #loader-wrapper {
   position: fixed;
   top: 0;
@@ -430,6 +426,10 @@ animation-delay: .8s;
   border-width: 1px;
   text-transform: uppercase;
 }
+.tp-caption {
+  scroll-behavior: smooth;
+}
+
 /*** 
 
 ====================================================================
