@@ -293,6 +293,7 @@ animation-delay: .8s;
 ====================================================================
 
  ***/
+
 .theme-main-header {
   position: absolute;
   top:0;
@@ -440,7 +441,7 @@ animation-delay: .8s;
 #about-us .single-about-content {
   text-align: center;
   margin-top: 55px;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
 }
 #about-us .icon {
   width: 130px;
